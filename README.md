@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Saiprassad
 
-<!--
-**iamsaiprassad/iamsaiprassad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+As a **Data Analyst**, I have a strong foundation in data management and analysis. My expertise lies in identifying trends and patterns in large and complex datasets to drive business success. I'm skilled in a variety of data analysis tools and techniques, including data visualization, statistical analysis, data mining, and creative dashboards. I’m passionate about turning data into insights and solutions, always seeking new ways to promote data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+- 👀 I’m interested in **Data Analytics & Business Intelligence**
+- 🌱 I’m a recent graduate in **Artificial Intelligence and Data Science**
+- 👋 I’m looking to collaborate on **data analysis projects**
+- 📫 How to reach me: [saiprassad20@gmail.com](mailto:saiprassad20@gmail.com)
+
+## 💻 Skills
+- Power BI
+- SQL
+- Tableau
+- Python
+- Business analysis
+- Data analysis
+
+## 🌐 Socials
+- [LinkedIn](https://www.linkedin.com/in/saiprassad)
+- [NovyPro](https://www.novypro.com/profile_about/saiprassad)
